@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `orden` MODIFY `estado` INTEGER NOT NULL DEFAULT 0;
